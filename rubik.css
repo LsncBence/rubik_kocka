@@ -10,3 +10,9 @@ div.a {
 div.b {
     text-align: left
 }
+div.c {
+    margin 10px
+}
+ul div {
+    margin 10px
+}
