@@ -4,3 +4,9 @@ html {
 body {
     color #443507
 }
+div.a {
+    text-align: right
+}
+div.b {
+    text-align: left
+}
