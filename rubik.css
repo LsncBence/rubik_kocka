@@ -21,3 +21,6 @@ ul div {
 img {
     height: 170px;
 }
+ul {
+    list-style-type: circle;
+}
