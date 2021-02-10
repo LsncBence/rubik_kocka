@@ -24,3 +24,9 @@ img {
 ul {
     list-style-type: circle;
 }
+ul p {
+    font-style: bold;
+}
+p.a {
+    font-style: bold;
+}
